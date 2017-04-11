@@ -1,0 +1,3 @@
+rootProject.name = 'rn_flow_ex'
+
+include ':app'
